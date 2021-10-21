@@ -17,3 +17,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaakol&show_icons=true&locale=en&layout=compact" alt="ajaakol" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaakol&" alt="ajaakol" /></p>
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaakol&langs_count=5&theme=tokyonight)]()
+
